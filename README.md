@@ -1,0 +1,2 @@
+# MyLightnovel
+ translated lightnovel bank
